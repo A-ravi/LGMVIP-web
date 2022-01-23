@@ -1,0 +1,13 @@
+single page website of xyz engg college:
+it has:
+landing page with slider image background,hover cursor effect, a navbar with links,Todo’s : a. clg name and logo:- xyzEnggeringCollege ,https://www.flaticon.com/premium-icon/graduation-hat_1344863 b. collect background images :- donec. what link should in navbar, :- Home, About us, Admission,Departments,research, student’s lifed. color scheme: hover:2C698D, bg:B1E3FF  /  https://colors.muz.li/palette/272643/ffffff/e3f6f5/bae8e8/2c698de. design 1st page:  done
+showcase section of features with logo’s and link atleast 3:a. what a college website has to feature: vision mission statementsb. find logo for that:  saved itc. desgin feature section: Done
+A slider showing project/ department  list, with project name project description and a link with hover effect: a. list of department name: Computer, Electrical, Chemical, Mechanical, Civilb. collect images for resp. dept:  saved itc. Desgin it:  done
+price / admission table section with plan and link to buy.a. create a text title “admissions”b. two sub section for UG and PGc. list of UG and PG course with linksd. Desgin it: done
+A videos slider of projecta. A text tile video tour b. download videosc. list of video playing autod.design it: done
+empolyee/ founder detials with hover on show there social links at least 6 person’sa. download founder images: doneb.text title name with board members : donec.make a box with profile in circle , name and desgination. : doned. Download social link icon of fb, twitter, insta : donee. for hover show social links.: done
+A image slider of student images playing:a. download student images: done b.text title student’s life @ XYZ : donec.the image slider. : done
+newsletter singup forma.download a wide image for background: doneb. design it: 
+blog section with some blogs with image, description and link:a. text title blog : doneb. blog name : donec. blog description : doned. blog link : done
+A contact form with maps location in a side.:a. google map: doneb. degin contact form: done
+A footer with office address, social links,  contact us information:a. desgin it: done
